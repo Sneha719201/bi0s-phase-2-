@@ -1,0 +1,3 @@
+Time taken : 2 hours 
+The task took me to a website in which i had to open each transaction and check whether flag was available in the details.however even after finding the flag format in the details 
+i had to convert the hex to utf-8 to get the flag in proper format.
