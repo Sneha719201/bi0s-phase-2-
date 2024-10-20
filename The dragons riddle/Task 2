@@ -1,0 +1,4 @@
+Task 2 : Dragons riddle 
+Time taken : 1hour 
+Here I had to decode the text file in order to access the link of a github account which consisted of octal value which had to be converted to the ascii in order to access a website,
+which then showed an image with the flag.
